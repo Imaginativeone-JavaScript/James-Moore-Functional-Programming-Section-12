@@ -1,0 +1,5 @@
+ - [ ] Section 12: Weather Application 0/4 | 20min
+	 - [ ] 54. Application Introduction | 2min
+	 - [ ] 55. Talking To Servers | 6min
+	 - [ ] 56. Where to allow Server Side Effects In Functional Programs | 4min
+	 - [ ] 57. Implementing Server Side Effects, in a Functional Programming Style | 8min
